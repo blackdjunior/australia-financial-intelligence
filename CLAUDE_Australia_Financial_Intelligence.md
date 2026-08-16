@@ -2,7 +2,7 @@
 
 ## 1. Mission
 
-Build and maintain a weekly intelligence system that produces a high-quality report on the Australian financial market every Friday.
+Build and maintain a weekly intelligence system that produces a high-quality report on the Australian financial market every Wednesday (12pm Australia/Adelaide time), covering the most recent 7 days.
 
 The report should help a finance professional quickly understand:
 
